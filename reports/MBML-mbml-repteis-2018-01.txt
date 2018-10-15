@@ -1,0 +1,68 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 457
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 5
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-17 ; Times: 8
+	Date: 2018-01-23 ; Times: 3
+	Date: 2018-01-24 ; Times: 6
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Acanthochelys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amerotyphlops brongersmianus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Oxyrhopus petolarius" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "microcephalum" ; Times: 2
+	Query: "Dipsas" ; Times: 2
+	Query: "sui" ; Times: 4
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "philodryas patagoniensis" ; Times: 1
+	Query: "Corallus" ; Times: 5
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1398 download events in this period)
+Total number of records downloaded: 361
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:boa" ; Times: 1
+	Query: "tropidurus torquatus" ; Times: 1
+
+
+End of report.
