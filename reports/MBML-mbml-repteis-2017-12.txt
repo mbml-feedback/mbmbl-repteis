@@ -1,0 +1,67 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 224
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 18
+	Country: China ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 9
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-06 ; Times: 6
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla melanocephala" ; Times: 2
+	Query: "specificepithet:constrictor genus:Boa mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 5
+	Query: "specificepithet:iguana genus:Iguana  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 6
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "genus:Pseudoboa mappable:1" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2000" ; Times: 2
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "ophiodes" ; Times: 2
+	Query: "specificepithet:constrictor genus:Boa  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "genus:Siphlophis mappable:1" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 5
+	Query: "catalognumber:642" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 674 download events in this period)
+Total number of records downloaded: 138
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia mappable:1" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+
+
+End of report.
