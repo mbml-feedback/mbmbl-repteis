@@ -1,0 +1,97 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 1344
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 136
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-28 ; Times: 18
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-05 ; Times: 4
+	Date: 2018-03-06 ; Times: 9
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 29
+	Date: 2018-03-27 ; Times: 10
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 19
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Erythrolamprus" ; Times: 4
+	Query: "Chironius laevicollis mappable:1" ; Times: 1
+	Query: "&#34;Tupinambis merianae&#34;" ; Times: 1
+	Query: "genus:Phrynops specificepithet:geoffroanus" ; Times: 6
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 2
+	Query: "genus:Drymoluber specificepithet:dichrous" ; Times: 5
+	Query: "genus:Xenopholis specificepithet:scalaris" ; Times: 5
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Helicops specificepithet:leopardinus" ; Times: 5
+	Query: "Amphisbaena alba" ; Times: 3
+	Query: "genus:Leptodeira specificepithet:annulata" ; Times: 2
+	Query: "genus:Gonatodes specificepithet:humeralis" ; Times: 2
+	Query: "genus:Bothrops specificepithet:atrox" ; Times: 5
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 5
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 5
+	Query: "Chironius foveatus mappable:1" ; Times: 1
+	Query: "genus:Pseudoboa specificepithet:nigra" ; Times: 4
+	Query: "genus:Philodryas specificepithet:olfersii" ; Times: 6
+	Query: "genus:Crotalus specificepithet:durissus" ; Times: 2
+	Query: "genus:Oxyrhopus specificepithet:rhombifer" ; Times: 5
+	Query: "genus:Oxybelis specificepithet:aeneus" ; Times: 5
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 6
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 5
+	Query: "genus:Amphisbaena (Lucia )" ; Times: 1
+	Query: "genus:Bothrops specificepithet:sp" ; Times: 5
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 5
+	Query: "Atractus guentheri" ; Times: 1
+	Query: "genus:Bothrops specificepithet:moojeni" ; Times: 5
+	Query: "genus:Thamnodynastes specificepithet:strigatus" ; Times: 5
+	Query: "Chironius fuscus mappable:1" ; Times: 1
+	Query: "specificepithet:cenchoa " ; Times: 1
+	Query: "specificepithet:durissus genus:crotalus year &gt;= 1990" ; Times: 2
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "genus:Pseustes specificepithet:poecilonotus" ; Times: 10
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "genus:Xenodon specificepithet:neuwiedii" ; Times: 5
+	Query: "Chironius exoletus mappable:1" ; Times: 1
+	Query: "genus:Chironius specificepithet:fuscus" ; Times: 5
+	Query: "genus:Oxyrhopus specificepithet:guibei" ; Times: 5
+	Query: "specificepithet:petolarius genus:Oxyrhopus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1284 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Chironius exoletus mappable:1" ; Times: 1
+	Query: "Chironius laevicollis mappable:1" ; Times: 1
+	Query: "Chironius fuscus mappable:1" ; Times: 1
+
+
+End of report.
