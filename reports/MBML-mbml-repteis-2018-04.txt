@@ -1,0 +1,81 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 704
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 3
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-17 ; Times: 16
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 19
+	Date: 2018-04-21 ; Times: 7
+	Date: 2018-04-20 ; Times: 5
+	Date: 2018-04-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "genus:Leptodeira sex:male OR female" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "specificepithet:petolarius genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Siphlophis compressus" ; Times: 1
+	Query: "specificepithet:plumbea genus:Clelia mappable:1" ; Times: 1
+	Query: "specificepithet:clathratus genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "genus:Oxybelis sex:male OR female" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Siphlophis mappable:1" ; Times: 1
+	Query: "caiman latirostris" ; Times: 33
+	Query: "Pseudoboa nigra" ; Times: 1
+	Query: "specificepithet:compressus genus:Siphlophis mappable:1" ; Times: 1
+	Query: "specificepithet:corallinus genus:micrurus" ; Times: 7
+	Query: "Enyalius" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "specificepithet:nigra genus:Pseudoboa mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1359 download events in this period)
+Total number of records downloaded: 146
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Micrurus sex:male OR female" ; Times: 1
+	Query: "Enyalius bilineatus" ; Times: 1
+	Query: "specificepithet:nigra genus:Pseudoboa mappable:1" ; Times: 1
+	Query: "specificepithet:petolarius genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Siphlophis compressus" ; Times: 1
+	Query: "specificepithet:plumbea genus:Clelia mappable:1" ; Times: 1
+	Query: "specificepithet:clathratus genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "genus:Anolis year &gt;= 2014 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Siphlophis mappable:1" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia mappable:1" ; Times: 1
+	Query: "specificepithet:compressus genus:Siphlophis mappable:1" ; Times: 1
+
+
+End of report.
