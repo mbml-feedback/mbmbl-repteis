@@ -1,0 +1,74 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 237
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-14 ; Times: 5
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-28 ; Times: 12
+	Date: 2018-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:caparao" ; Times: 5
+	Query: "Psychosaura macrorhyncha" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 3
+	Query: "specificepithet:fuscoauratus genus:Anolis mappable:1" ; Times: 5
+	Query: "Mabuya macrorhyncha" ; Times: 1
+	Query: "siphlophis" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 2
+	Query: "Lachesis muta" ; Times: 3
+	Query: "specificepithet:annulata genus:Leptodeira mappable:1" ; Times: 1
+	Query: "specificepithet:ortonii genus:Anolis mappable:1" ; Times: 3
+	Query: "catalognumber:2241 institutioncode:MBML" ; Times: 2
+	Query: "specificepithet:fuscoauratus genus:Norops mappable:1" ; Times: 1
+	Query: "leptophis ahaetulla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 846 download events in this period)
+Total number of records downloaded: 1518
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mabuya macrorhyncha" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "Liolaemidae" ; Times: 1
+	Query: "family:Dipsadidae" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+
+
+End of report.
