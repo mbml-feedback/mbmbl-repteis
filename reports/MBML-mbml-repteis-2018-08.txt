@@ -1,0 +1,93 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 329
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 7
+	Country: Spain ; Times: 7
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-09 ; Times: 7
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Bothrops erythromelas" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "DOL" ; Times: 1
+	Query: "Bothrops leucurus" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 3
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 2
+	Query: "Epicrates cenchria" ; Times: 4
+	Query: "Lachesis muta" ; Times: 1
+	Query: "genus:Siphlophis" ; Times: 1
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT FMNH)" ; Times: 1
+	Query: "specificepithet:petolarius genus:Oxyrhopus" ; Times: 2
+	Query: "Bothrops sazimai" ; Times: 1
+	Query: "Leposoma scincoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1416 download events in this period)
+Total number of records downloaded: 1013
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-08 ; Times: 5
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Bothrops erythromelas" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Bothrops leucurus" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Bothrops sazimai" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+
+
+End of report.
