@@ -1,0 +1,112 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 184
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 19
+	Country: Colombia ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-03 ; Times: 18
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cnemidophorus ocellifer" ; Times: 1
+	Query: "Tropidurus itambere" ; Times: 1
+	Query: "tupinambis merianae" ; Times: 1
+	Query: "Liolaemus lutzae" ; Times: 1
+	Query: "catalognumber:820 institutioncode:MBML" ; Times: 1
+	Query: "Mabuya macrorhyncha" ; Times: 2
+	Query: "caiman latirostris" ; Times: 3
+	Query: "Diploglossus lessonae" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 2
+	Query: "Tropidurus semitaeniatus" ; Times: 1
+	Query: "liolaemus lutzae" ; Times: 1
+	Query: "Itaguaçu ES" ; Times: 1
+	Query: "Brasiliscincus agilis" ; Times: 1
+	Query: "Baixo Guandu ES" ; Times: 1
+	Query: "phrynops geoffroanus" ; Times: 1
+	Query: "Ameivula abaetensis" ; Times: 1
+	Query: "Micrablepharus maximiliani" ; Times: 1
+	Query: "Gymnodactylus geckoides" ; Times: 1
+	Query: "Polychrus acutirostris" ; Times: 1
+	Query: "Psychosaura macrorhyncha" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 1
+	Query: "Linhares ES" ; Times: 1
+	Query: "specificepithet:muta genus:Lachesis" ; Times: 2
+	Query: "Colatina ES" ; Times: 1
+	Query: "Lachesis muta" ; Times: 3
+	Query: "Kentropyx calcarata" ; Times: 1
+	Query: "Tropidurus oreadicus" ; Times: 1
+	Query: "Norops fuscoauratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1300 download events in this period)
+Total number of records downloaded: 804
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: France ; Times: 21
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 21
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cnemidophorus ocellifer" ; Times: 1
+	Query: "Anolis punctatus" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "tupinambis merianae" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Kentropyx calcarata" ; Times: 1
+	Query: "Liolaemus lutzae" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus" ; Times: 2
+	Query: "specificepithet:atrox genus:Bothrops" ; Times: 1
+	Query: "caiman latirostris" ; Times: 3
+	Query: "Mabuya macrorhyncha" ; Times: 1
+	Query: "Diploglossus lessonae" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Tropidurus semitaeniatus" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+	Query: "Brasiliscincus agilis" ; Times: 1
+	Query: "Micrablepharus maximiliani" ; Times: 1
+	Query: "Gonatodes humeralis" ; Times: 1
+	Query: "Gymnodactylus geckoides" ; Times: 1
+	Query: "Tropidurus torquatus" ; Times: 1
+	Query: "Psychosaura macrorhyncha" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 1
+	Query: "specificepithet:muta genus:Lachesis" ; Times: 3
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Tropidurus oreadicus" ; Times: 1
+	Query: "Norops fuscoauratus" ; Times: 1
+	Query: "Salvator merianae" ; Times: 1
+
+
+End of report.
