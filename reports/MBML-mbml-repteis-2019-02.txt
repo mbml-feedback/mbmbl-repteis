@@ -1,0 +1,55 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "sui" ; Times: 1
+	Query: "Corallus mappable:1" ; Times: 1
+	Query: "Epicrates mappable:1" ; Times: 1
+	Query: "specificepithet:petolarius genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Phyllopezus year &gt;= 2000" ; Times: 1
+	Query: "catalognumber:2242 institutioncode:MBML" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1227 download events in this period)
+Total number of records downloaded: 82
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+
+
+End of report.
