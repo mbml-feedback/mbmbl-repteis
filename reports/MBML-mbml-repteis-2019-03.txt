@@ -1,0 +1,145 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 1464
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 9
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 69
+	Country: Belgium ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 4
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 25
+	Date: 2019-03-15 ; Times: 42
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Amerotyphlops brongersmianus" ; Times: 1
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "Siphlophis compressus" ; Times: 1
+	Query: "Rodriguesophis chui" ; Times: 1
+	Query: "Oxyrhopus petolarius" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "ophiodes" ; Times: 4
+	Query: "Spilotes pullatus" ; Times: 3
+	Query: "Helicops carinicaudus" ; Times: 1
+	Query: "Oxyrhopus clathratus" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Erythrolamprus reginae" ; Times: 1
+	Query: "Dipsas albifrons" ; Times: 1
+	Query: "Mastigodryas bifossatus" ; Times: 1
+	Query: "Coronelaps lepidus" ; Times: 1
+	Query: "Atractus guentheri" ; Times: 1
+	Query: "Helicops leopardinus" ; Times: 1
+	Query: "Oxyrhopus guibei" ; Times: 1
+	Query: "Sibynomorphus neuwiedi" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "genus:Chatogekko" ; Times: 1
+	Query: "Erythrolamprus poecilogyrus" ; Times: 1
+	Query: "Bothrops leucurus" ; Times: 1
+	Query: "Tropidodryas serra" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "Tropidurus semitaeniatus" ; Times: 2
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Dipsas variegata" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "genus:coleodactylus" ; Times: 1
+	Query: "Philodryas olfersii" ; Times: 1
+	Query: "Elapomorphus quinquelineatus" ; Times: 1
+	Query: "genus:phyllopezus" ; Times: 1
+	Query: "Elapomorphus wuchereri" ; Times: 1
+	Query: "Thamnodynastes pallidus" ; Times: 1
+	Query: "Thamnodynastes strigatus" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Xenopholis scalaris" ; Times: 1
+	Query: "Placosoma" ; Times: 1
+	Query: "ophiodes striatus" ; Times: 4
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "Drymoluber dichrous" ; Times: 1
+	Query: "Pseudoboa nigra" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 1
+	Query: "Tropidodryas striaticeps" ; Times: 1
+	Query: "Xenodon neuwiedii" ; Times: 1
+	Query: "Taeniophallus affinis" ; Times: 1
+	Query: "Erythrolamprus miliaris" ; Times: 1
+	Query: "genus:gymnodactylus year &gt;= 1980" ; Times: 1
+	Query: "Dipsas sazimai" ; Times: 1
+	Query: "Clelia plumbea" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Mastigodryas boddaerti" ; Times: 1
+	Query: "Oxyrhopus rhombifer" ; Times: 1
+	Query: "Bothrops erythromelas" ; Times: 1
+	Query: "Salvator merianae mappable:1" ; Times: 2
+	Query: "Placosoma glabellum" ; Times: 2
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Ophiodes" ; Times: 1
+	Query: "Lachesis mappable:1" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Spilotes sulphureus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Dipsas indica" ; Times: 1
+	Query: "Siphlophis longicaudatus" ; Times: 1
+	Query: "Taeniophallus persimilis" ; Times: 1
+	Query: "Phalotris mertensi" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Thamnodynastes hypoconia" ; Times: 1
+	Query: "Xenodon mappable:1" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1281 download events in this period)
+Total number of records downloaded: 413
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 5
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:phyllopezus" ; Times: 1
+	Query: "vntype:specimen genus:Erythrolamprus" ; Times: 1
+	Query: "genus:Chatogekko" ; Times: 1
+	Query: "ophiodes striatus" ; Times: 1
+	Query: "Tropidurus semitaeniatus" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "genus:coleodactylus" ; Times: 1
+	Query: "genus:gymnodactylus year &gt;= 1980" ; Times: 1
+
+
+End of report.
