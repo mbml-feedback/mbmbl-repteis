@@ -1,0 +1,78 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 606
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 6
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-01 ; Times: 9
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:821 institutioncode:MBML" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "lachesis muta" ; Times: 1
+	Query: "Oxyrhopus petolarius mappable:1" ; Times: 1
+	Query: "catalognumber:532 institutioncode:MBML" ; Times: 1
+	Query: "Oxyrhopus" ; Times: 2
+	Query: "genus:Ophiodes basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Ophiodes striatus" ; Times: 3
+	Query: "chatogekko amazonicus" ; Times: 1
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "Leptophis ahaetulla mappable:1" ; Times: 1
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "Echinanthera" ; Times: 2
+	Query: "Cercosaura ocellata mappable:1" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Salvator merianae mappable:1" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Tropidurus torquatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1263 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lachesis" ; Times: 2
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "chatogekko amazonicus" ; Times: 1
+	Query: "Echinanthera" ; Times: 2
+
+
+End of report.
