@@ -1,0 +1,130 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 1118
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 77
+	Country: Brazil ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 2
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-26 ; Times: 5
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 62
+	Date: 2019-06-10 ; Times: 5
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oxyrhopus specificepithet:petolarius" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "genus:Liophis specificepithet:miliaris" ; Times: 1
+	Query: "genus:Tropidodryas specificepithet:serra" ; Times: 1
+	Query: "genus:Tupinambis specificepithet:sp." ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "genus:Chatogekko specificepithet:amazonicus" ; Times: 1
+	Query: "genus:Arthrosaura specificepithet:reticulata" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 3
+	Query: "genus:Gymnodactylus specificepithet:geckoides" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "genus:Siphlophis specificepithet:longicaudatus" ; Times: 1
+	Query: "genus:Anolis specificepithet:punctatus" ; Times: 1
+	Query: "genus:Xenopholis specificepithet:scalaris" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 4
+	Query: "genus:Tupinambis specificepithet:merianae" ; Times: 1
+	Query: "genus:Norops" ; Times: 1
+	Query: "genus:Epicrates specificepithet:cenchria" ; Times: 1
+	Query: "genus:Helicops specificepithet:leopardinus" ; Times: 1
+	Query: "genus:Liophis specificepithet:poecilogyrus" ; Times: 1
+	Query: "genus:Heterodactylus specificepithet:imbricatus" ; Times: 1
+	Query: "genus:Phalotris specificepithet:mertensi" ; Times: 1
+	Query: "genus:Cercosaura specificepithet:ocellata" ; Times: 1
+	Query: "genus:Dipsas specificepithet:variegata" ; Times: 1
+	Query: "genus:Ecpleopus specificepithet:gaudichaudii" ; Times: 1
+	Query: "genus:Thamnodynastes specificepithet:pallidus" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 1
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 2
+	Query: "genus:Pseudoboa specificepithet:nigra" ; Times: 1
+	Query: "genus:Dipsas specificepithet:albifrons" ; Times: 1
+	Query: "genus:Philodryas specificepithet:olfersii" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "genus:Coleodactylus specificepithet:meridionalis" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:rhombifer" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 1
+	Query: "genus:Liophis specificepithet:reginae" ; Times: 1
+	Query: "Amerotyphlops brongersmianus" ; Times: 1
+	Query: "genus:Brasiliscincus specificepithet:agilis" ; Times: 1
+	Query: "genus:Phrynops specificepithet:geoffroanus" ; Times: 1
+	Query: "genus:Sibynomorphus specificepithet:neuwiedi" ; Times: 1
+	Query: "thamnodynastes" ; Times: 4
+	Query: "genus:Oxyrhopus specificepithet:clathratus" ; Times: 1
+	Query: "genus:Pseustes specificepithet:poecilonotus" ; Times: 2
+	Query: "genus:Eretmochelys specificepithet:imbricata" ; Times: 1
+	Query: "genus:Strobilurus specificepithet:torquatus" ; Times: 1
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 1
+	Query: "genus:Erythrolamprus specificepithet:aesculapii" ; Times: 1
+	Query: "genus:Diploglossus specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Bothrops specificepithet:moojeni" ; Times: 2
+	Query: "genus:Tropidodryas specificepithet:striaticeps" ; Times: 1
+	Query: "genus:Thamnodynastes specificepithet:strigatus" ; Times: 1
+	Query: "genus:Drymoluber specificepithet:dichrous" ; Times: 1
+	Query: "genus:Dipsas specificepithet:indica" ; Times: 1
+	Query: "genus:Taeniophallus specificepithet:affinis" ; Times: 1
+	Query: "genus:Phyllopezus specificepithet:lutzae" ; Times: 1
+	Query: "genus:Kentropyx specificepithet:calcarata" ; Times: 1
+	Query: "genus:Bothrops specificepithet:sp" ; Times: 2
+	Query: "genus:Polychrus specificepithet:marmoratus" ; Times: 1
+	Query: "genus:Philodryas specificepithet:patagoniensis" ; Times: 1
+	Query: "genus:Xenodon specificepithet:neuwiedii" ; Times: 1
+	Query: "genus:Micrablepharus specificepithet:maximiliani" ; Times: 1
+	Query: "genus:Chironius specificepithet:fuscus" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:guibei" ; Times: 1
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 1
+	Query: "genus:Psychosaura specificepithet:macrorhyncha" ; Times: 1
+	Query: "genus:Leposoma specificepithet:scincoides" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 5
+	Query: "genus:Elapomorphus specificepithet:quinquelineatus" ; Times: 1
+	Query: "genus:Gonatodes specificepithet:humeralis" ; Times: 1
+	Query: "genus:Siphlophis specificepithet:compressus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1182 download events in this period)
+Total number of records downloaded: 134
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-11 ; Times: 3
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "jaguar" ; Times: 2
+	Query: "genus:Dermochelys" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 2
+	Query: "thamnodynastes" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 2
+
+
+End of report.
