@@ -1,0 +1,77 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 1531
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-23 ; Times: 4
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 8
+	Date: 2019-08-27 ; Times: 8
+	Date: 2019-08-31 ; Times: 8
+	Date: 2019-08-30 ; Times: 24
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Amerotyphlops specificepithet:brongersmianus" ; Times: 1
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:MBML" ; Times: 6
+	Query: "Gymnodactylus darwinii hassex:1" ; Times: 8
+	Query: "specificepithet:lutzae genus:Phyllopezus institutioncode:MBML" ; Times: 6
+	Query: "genus:Leposternon specificepithet:microcephalum" ; Times: 1
+	Query: "coleodactylus meridionalis" ; Times: 1
+	Query: "specificepithet:amazonicus genus:Chatogekko institutioncode:MBML" ; Times: 6
+	Query: "CAIMAN LATIROSTRIS" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "genus:Waglerophis specificepithet:merremii" ; Times: 1
+	Query: "Chatogekko amazonicus" ; Times: 8
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:MBML" ; Times: 6
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:MBML" ; Times: 6
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:MBML" ; Times: 6
+	Query: "Tropidurus oreadicus" ; Times: 1
+	Query: "caiman latirostris" ; Times: 1
+	Query: "Chatogekko" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1034 download events in this period)
+Total number of records downloaded: 853
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Sphaerodactylidae" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 1
+
+
+End of report.
