@@ -1,0 +1,132 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 2509
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: Brazil ; Times: 61
+	Country: Panama ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 8
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 9
+	Date: 2019-09-11 ; Times: 5
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 11
+	Date: 2019-09-09 ; Times: 47
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-03 ; Times: 18
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-06 ; Times: 4
+	Date: 2019-09-04 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Hydromedusa mappable:1" ; Times: 1
+	Query: "Micrurus lemniscatus mappable:1" ; Times: 1
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:MBML" ; Times: 5
+	Query: "phrynops mappable:1" ; Times: 1
+	Query: "Erythrolamprus aesculapii mappable:1" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "specificepithet:amazonicus genus:Chatogekko institutioncode:MBML" ; Times: 5
+	Query: "Oxyrhopus petolarius" ; Times: 7
+	Query: "Philodryas patagoniensis mappable:1" ; Times: 1
+	Query: "Imantodes cenchoa cenchoa mappable:1" ; Times: 1
+	Query: "SUI" ; Times: 1
+	Query: "mastigodryas bifossatus" ; Times: 1
+	Query: "lachesis" ; Times: 1
+	Query: "Lachesis muta muta mappable:1" ; Times: 1
+	Query: "Chatogekko amazonicus" ; Times: 8
+	Query: "Tantilla melanocephala mappable:1" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Dipsas variegata mappable:1" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "Corallus hortulanus mappable:1" ; Times: 1
+	Query: "Epicrates cenchria mappable:1" ; Times: 1
+	Query: "Chironius fuscus mappable:1" ; Times: 1
+	Query: "Lachesis muta mappable:1" ; Times: 1
+	Query: "Spilotes sulphureus mappable:1" ; Times: 1
+	Query: "Thamnodynastes pallidus mappable:1" ; Times: 1
+	Query: "Bothrops atrox mappable:1" ; Times: 1
+	Query: "Hydromedusa maximiliani" ; Times: 2
+	Query: "Spilotes pullatus pullatus mappable:1" ; Times: 1
+	Query: "Siphlophis compressus mappable:1" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 7
+	Query: "Bothrops jararaca mappable:1" ; Times: 2
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:MBML" ; Times: 5
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:MBML" ; Times: 5
+	Query: "Epicrates cenchria cenchria mappable:1" ; Times: 1
+	Query: "Mastigodryas bifossatus mappable:1" ; Times: 1
+	Query: "Oxyrhopus petola mappable:1" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:latirostris genus:Caiman" ; Times: 1
+	Query: "Oxyrhopus petolarius mappable:1" ; Times: 1
+	Query: "Leptophis ahaetulla mappable:1" ; Times: 1
+	Query: "( Ubajara)" ; Times: 2
+	Query: "Chironius flavolineatus mappable:1" ; Times: 1
+	Query: "specificepithet:lutzae genus:Phyllopezus institutioncode:MBML" ; Times: 5
+	Query: "Liophis miliaris mappable:1" ; Times: 1
+	Query: "Clelia plumbea mappable:1" ; Times: 1
+	Query: "Liophis poecilogyrus mappable:1" ; Times: 1
+	Query: "Drymoluber dichrous" ; Times: 1
+	Query: "Amerotyphlops brongersmianus mappable:1" ; Times: 1
+	Query: "Pseudoboa nigra mappable:1" ; Times: 1
+	Query: "Oxybelis aeneus mappable:1" ; Times: 1
+	Query: "Philodryas olfersii mappable:1" ; Times: 1
+	Query: "Tantilla melanocephala melanocephala mappable:1" ; Times: 1
+	Query: "Leptodeira annulata mappable:1" ; Times: 1
+	Query: "Pseustes sulphureus mappable:1" ; Times: 1
+	Query: "Clelia clelia plumbea mappable:1" ; Times: 1
+	Query: "Liophis meridionalis mappable:1" ; Times: 1
+	Query: "Drymoluber dichrous mappable:1" ; Times: 1
+	Query: "Dipsas neivai mappable:1" ; Times: 1
+	Query: "Gymnodactylus darwinii hassex:1" ; Times: 8
+	Query: "Xenopholis scalaris mappable:1" ; Times: 1
+	Query: "Chironius quadricarinatus mappable:1" ; Times: 1
+	Query: "Liophis reginae mappable:1" ; Times: 1
+	Query: "Micrablepharus maximiliani mappable:1" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "sui" ; Times: 1
+	Query: "Erythrolamprus miliaris mappable:1" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Chironius exoletus mappable:1" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:MBML" ; Times: 5
+	Query: "Helicops carinicaudus mappable:1" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Kentropyx calcarata mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1073 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+
+
+End of report.
