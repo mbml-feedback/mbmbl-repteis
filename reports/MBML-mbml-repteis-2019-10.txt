@@ -1,0 +1,73 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 231
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 14
+	Country: Argentina ; Times: 7
+	Country: Australia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-01 ; Times: 6
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 11
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mastigodryas bifossatus" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "chatogekko amazonicus" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "Spilotes sulphureus" ; Times: 2
+	Query: "Drymoluber dichrous" ; Times: 2
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "lachesis muta" ; Times: 2
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "phrynops" ; Times: 2
+	Query: "Philodryas patagoniensis" ; Times: 6
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Micrurus Carolina" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1308 download events in this period)
+Total number of records downloaded: 226
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "chatogekko amazonicus" ; Times: 1
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+
+
+End of report.
