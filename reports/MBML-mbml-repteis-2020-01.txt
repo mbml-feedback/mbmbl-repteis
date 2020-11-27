@@ -1,0 +1,60 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 1330
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 53
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 7
+	Date: 2020-01-28 ; Times: 15
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-24 ; Times: 13
+	Date: 2020-01-27 ; Times: 8
+	Date: 2020-01-26 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:MBML" ; Times: 6
+	Query: "Gymnodactylus darwinii hassex:1" ; Times: 4
+	Query: "specificepithet:lutzae genus:Phyllopezus institutioncode:MBML" ; Times: 6
+	Query: "specificepithet:amazonicus genus:Chatogekko institutioncode:MBML" ; Times: 7
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Chatogekko amazonicus" ; Times: 11
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:MBML" ; Times: 7
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:MBML" ; Times: 6
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:MBML" ; Times: 6
+	Query: "Cananéia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1584 download events in this period)
+Total number of records downloaded: 256
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Salvator merianae" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+
+
+End of report.
