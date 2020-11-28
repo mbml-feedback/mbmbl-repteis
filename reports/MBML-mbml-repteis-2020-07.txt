@@ -1,0 +1,91 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 245
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 10
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Brazil Prata" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Chatogekko amazonicus" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Prata" ; Times: 2
+	Query: "crotalus durissus terrificus" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "tropidodryas" ; Times: 1
+	Query: "corallus" ; Times: 1
+	Query: "genus:Tropidodryas year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "prata" ; Times: 1
+	Query: "genus:Coleodactylus family:Sphaerodactylidae" ; Times: 1
+	Query: "Gymnodactylus darwinii hassex:1" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 4
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 940 download events in this period)
+Total number of records downloaded: 1110
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-20 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "chironius bicarinatus" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+
+
+End of report.
