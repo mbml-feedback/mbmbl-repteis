@@ -1,0 +1,49 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 64
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 2
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "arthrosaura reticulata" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "coral snakes" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "ameivula" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 474 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Arthrosaura reticulata" ; Times: 1
+
+
+End of report.
