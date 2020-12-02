@@ -1,0 +1,64 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 412
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 10
+	Country: Ecuador ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 3
+	Date: 2020-11-18 ; Times: 5
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-14 ; Times: 3
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-16 ; Times: 2
+	Date: 2020-11-11 ; Times: 15
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "bothrops erythromelas" ; Times: 2
+	Query: "bothrops bilineatus" ; Times: 8
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Oxyrhopus petola" ; Times: 14
+	Query: "itaiquara" ; Times: 1
+	Query: "bothrops bra" ; Times: 2
+	Query: "specificepithet:marmoratus genus:Polychrus" ; Times: 5
+	Query: "lachesis" ; Times: 1
+	Query: "coral snakes" ; Times: 1
+	Query: "Salvator merianae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 842 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bothrops erythromelas" ; Times: 1
+	Query: "cope" ; Times: 1
+
+
+End of report.
