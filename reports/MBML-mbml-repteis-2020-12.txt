@@ -1,0 +1,63 @@
+Report for Institution Code MBML, Resource mbml-repteis
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 91
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Mozambique ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Dermochelys coriacea" ; Times: 2
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "bothrops moojeni" ; Times: 1
+	Query: "Salvator merianae" ; Times: 4
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "genus:hydromedusa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 705 download events in this period)
+Total number of records downloaded: 655
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "bothrops moojeni" ; Times: 1
+
+
+End of report.
